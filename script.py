@@ -2,4 +2,4 @@ import datetime
 
 print("Current time: " + str(datetime.datetime.now()))
 
-print("Updated Code v3")
+print("Updated Code v4")
